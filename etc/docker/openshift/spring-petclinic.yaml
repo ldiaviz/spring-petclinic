@@ -13,7 +13,7 @@ spec:
     spec:
       containers: 
       -
-        image: ldiaviz/spring-petclinic:latest
+        image: ldiaviz/spring-petclinic:0.4
         name: spring-petclinic-container
         ports:
         -
